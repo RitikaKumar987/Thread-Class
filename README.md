@@ -4,7 +4,7 @@ import java.io.*;
 class GFG extends Thread {
     public void run()
     {
-        System.out.print("Welcome to GeeksforGeeks.");
+        System.out.print("Thread is running");
     }
     public static void main(String[] args)
     {
